@@ -1,0 +1,13 @@
+td{
+    height: 200px;
+    width: 150px;
+}
+td:nth-child(1){
+    background-color: aquamarine;
+}
+td:nth-child(2){
+    background-color: blue;
+}
+td:nth-child(3){
+    background-color: blueviolet;
+}
